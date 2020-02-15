@@ -9,7 +9,7 @@ The MNIST dataset is an acronym that stands for the Modified National Institute 
 <p>3)Less than 20 Epochs
 <p>4)No fully connected layer
 
-## requirements
+## Requirements
 <p>python 3.6
 <p>pytorch 1.4.0
 
