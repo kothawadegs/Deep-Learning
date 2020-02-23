@@ -6,7 +6,7 @@ Add GAP layer. Add more layer at the end.
 **Result:**
 Parameters: 9428
 Best Train Accuracy: 99.24
-Best Test Accuracy: 99.24
+Best Test Accuracy: 99.22
 
 **Analysis:**
 The model is not over-fitting. and we can increase accuracy further 
