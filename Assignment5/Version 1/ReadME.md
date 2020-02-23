@@ -5,9 +5,9 @@ Decrease the number of parameters (with some drop in accuracy is accepted)
 
 **Results:**
   
-Parameters: 193k
+Parameters: 132,788
 Best Train Accuracy: 99.42
-Best Test Accuracy: 98.97
+Best Test Accuracy: 98.83
 
 **Analysis:**
   
