@@ -19,4 +19,10 @@
 6.  FC Layer
 7.  SoftMax
 
-### 
+### Results:
+Accuracy in 23rd epoch:  **90.37%** 
+
+### LR Range Test:
+Best Accuracy: 89.22
+
+Best Learning Rate: 0.017616061224489797
